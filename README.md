@@ -2,12 +2,12 @@
 
 Sandbox react app with dockerization
 
-# Run
+## Run
 
 - `npm install` to install dependencies
 - `npm start` to run it locally on port 3000
 
-# Docker
+## Docker
 
 - `docker build . -t docker-react` to build the docker image
 - `docker images` to check the 'docker-react' image is in the list
